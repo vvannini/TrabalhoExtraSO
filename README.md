@@ -11,6 +11,6 @@ Para executar o programa basta rodar no terminal:
 * ./diretorio
 
 
-O programa irá criar, renomear e excluir 10 diretórios no diretório atual.
+O programa irá criar, renomear e excluir 25 diretórios no diretório atual.
 
 O resultado em tempo do programa será salvo em um arquivo chamado "Result.txt" com os tempos de cada iteração.
